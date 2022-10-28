@@ -60,3 +60,7 @@ def towels:
 	woollite = 0
 	soaps(detergent,softener,bleech,clorox2,woollite)
 
+def main:
+	import boardio
+	import inky
+	
